@@ -38,7 +38,7 @@ async def fallen_startup():
     try:
         await app.send_message(
             SUNAME,
-            f"✯ بــــوت بــدثون الجديد ✯\n\n⌔︙ الايدي: `{BOT_ID}`\n⌔︙ الاسم : {BOT_NAME}\n⌔︙ الاسم : @{BOT_USERNAME}",
+            f"✯ بــــوت ليشع الجديد ✯\n\n⌔︙ الايدي: `{BOT_ID}`\n⌔︙ الاسم : {BOT_NAME}\n⌔︙ الاسم : @{BOT_USERNAME}",
         )
     except:
         LOGGER.error(

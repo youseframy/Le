@@ -13,15 +13,15 @@ DURATION_LIMIT = int(getenv("DURATION_LIMIT", "90"))
 
 OWNER_ID = int(getenv("OWNER_ID"))
 
-PING_IMG = getenv("PING_IMG", "https://telegra.ph/file/95bc0cd9d859ddc13d28a.jpg")
-START_IMG = getenv("START_IMG", "https://telegra.ph/file/95bc0cd9d859ddc13d28a.jpg")
+PING_IMG = getenv("PING_IMG", "https://graph.org/file/39741eb49863d3e75b041.mp4")
+START_IMG = getenv("START_IMG", "https://graph.org/file/39741eb49863d3e75b041.mp4")
 
 SESSION = getenv("SESSION", None)
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Y_wli")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Y_wil")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Y_wli")
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5811104893").split()))
 
 
-FAILED = "https://telegra.ph/file/95bc0cd9d859ddc13d28a.jpg"
+FAILED = "https://graph.org/file/39741eb49863d3e75b041.mp4"

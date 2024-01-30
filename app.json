@@ -1,6 +1,6 @@
 {
-    "name": "بوت ميوزك مجاني",
-    "description": "سورس ميوزك بدثون",
+    "name": "بوت ميوزك يوسف",
+    "description": "سورس ميوزك يوسف",
     "logo": "https://telegra.ph/file/95bc0cd9d859ddc13d28a.jpg",
     "keywords": [
     "python3",
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/BDthon",
+        "value": "https://t.me/Y_wli",
         "required": false
       }
     },

@@ -1,7 +1,7 @@
 {
     "name": "بوت ميوزك يوسف",
     "description": "سورس ميوزك يوسف",
-    "logo": "https://graph.org/file/425ce22bf11c8654c80de.jpg",
+    "logo": "https://telegra.ph/file/79740d1eeb46b8a6e397d.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/Y_wli",
+        "value": "https://t.me/J_wli",
         "required": false
       }
     },
